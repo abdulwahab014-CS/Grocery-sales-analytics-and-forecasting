@@ -1,1 +1,2 @@
 # Grocery-sales-analytics-and-forecasting
+This project explores Supermart Grocery Sales data to uncover key sales trends, product and customer performance, regional patterns, and profitability insights. Python was utilized for data preprocessing, cleaning, and exploratory data analysis, while Power BI was used to develop key performance indicators (KPIs) and an interactive dashboard to support data-driven business decisions.
